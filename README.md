@@ -1,4 +1,4 @@
-### Hi 👋, I'm Tansu
+## Hi 👋, I'm Tansu
 
 <!--
 **Tansuuu/Tansuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
